@@ -15,7 +15,7 @@ body {
 h2 {
   display: flex;
   /*color: transparent;*/
-  font-size: 15vw;
+  font-size: 10vw;
 }
 h2 span {
   animation: animate 10s linear infinite;
